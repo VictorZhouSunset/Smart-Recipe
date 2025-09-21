@@ -1,0 +1,1 @@
+The Smart Recipe Recommendation Project is a web application that utilizes computer vision to identify ingredients from uploaded images. It then uses a recipe API to suggest recipes based on the identified ingredients, providing users with a complete experience from image upload to recipe recommendations.
